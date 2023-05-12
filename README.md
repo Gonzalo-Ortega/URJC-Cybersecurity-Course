@@ -1,6 +1,6 @@
 # Ciphers seen in Cybersecurity Course
 #### 🏛️ Imparted in Universidad Rey Juan Carlos during 2023 for the Software Engeneering degree.
-Python implemementations of different classic and modern ciphers used to 
+Python implementations of different classic and modern ciphers used to 
 solve some problems proposed during the course.
 - - -
 
